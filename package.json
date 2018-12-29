@@ -1,0 +1,27 @@
+{
+  "name": "ftp-transfer",
+  "version": "1.0.1",
+  "description": "One can use it to transfer files from one directory to other in the computer system. This is very basic application with basic UI. Port used:3000",
+  "main": "ftp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devanshuShrivastava/FTP.git"
+  },
+  "keywords": [
+    "FTP",
+    "formidable",
+    "FileSystem",
+    "Http",
+    "nodeJS"
+  ],
+  "author": "Devanshu Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devanshuShrivastava/FTP/issues"
+  },
+  "homepage": "https://github.com/devanshuShrivastava/FTP#readme",
+  "dependencies": {}
+}
